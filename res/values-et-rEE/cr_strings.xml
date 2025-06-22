@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Matrixx Override</string>
+    <string name="crdroid_settings_title">gazaOS Override</string>
     <string name="crdroid_settings_summary">Redefining the Fabric of Customization</string>
     <string name="reset_settings_title">Lähtesta seaded</string>
     <string name="reset_settings_message">See lähtestab valitud kasutaja jaoks enamus CrDroidi seaded vaikeväärtustele. Kas soovid jätkata?</string>
@@ -964,7 +964,7 @@
     <string name="status_bar_logo_summary">Kuva kohandatud logo olekuribast vasakul või paremal</string>
     <string name="status_bar_logo_position_title">Logo asukoht</string>
     <string name="status_bar_logo_style_title">Logo stiil</string>
-    <string name="status_bar_logo_style_crdroid">Matrixxx</string>
+    <string name="status_bar_logo_style_crdroid">gazaOSx</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Tulnukas</string>

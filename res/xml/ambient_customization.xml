@@ -36,7 +36,7 @@
             android:key="ambient_text_string"
             android:title="@string/ambient_text_string_title"
             android:dependency="ambient_text"
-            android:defaultValue="Welcome to Matrixx" />
+            android:defaultValue="Welcome to gazaOS" />
 
         <ListPreference
             android:key="ambient_text_type_color"

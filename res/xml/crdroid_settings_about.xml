@@ -55,7 +55,7 @@
         android:summary="@string/matrixx_source_summary">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://github.com/ProjectMatrixx" />
+            android:data="https://github.com/ProjectgazaOS" />
     </Preference>
     
     <Preference

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2024-25 Project Matrixx
+     Copyright (C) 2024-25 Project gazaOS
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -55,15 +55,15 @@
     <string name="font_preview_text">The quick brown\nfox jumps over the\nlazy dog\n\nABCDEFGHIJKLM\nNOPQRSTUVWXYZ\nabcdefghijkl\nmnopqrstuvwxyz\n1234567890</string>
     <string name="apply_button_text">Apply</string>
 
-    <!-- Matrixx -->
-    <string name="about_matrixx_summary">Information about Matrixx</string>    
-    <string name="team_matrixx">Team Matrixx</string>
-    <string name="team_matrixx_desc">Hey! We are Team Matrixx</string>
+    <!-- gazaOS -->
+    <string name="about_matrixx_summary">Information about gazaOS</string>    
+    <string name="team_matrixx">Team gazaOS</string>
+    <string name="team_matrixx_desc">Hey! We are Team gazaOS</string>
     <string name="devices_summary">Official devices list</string>
     <string name="matrixx_devices_title">Official Devices</string>
     <string name="get_changelogs_title">Latest changelog</string>
     <string name="get_changelogs_summary">Check latest changes</string>
-    <string name="matrixx_legal">Matrixx legal</string>
+    <string name="matrixx_legal">gazaOS legal</string>
     <string name="matrixx_legal_desc">Legal terms of use</string>
 
     <!-- Three-fingers-swipe to screenshot -->
