@@ -54,5 +54,5 @@ jobs:
         env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git push https://x-access-token:${TOKEN}@github.com/GazaOS-Revived/android_packages_apps_MatrixxSettings.git main
+          git push https://x-access-token:${TOKEN}@github.com/GazaOS-Revived/android_packages_apps_GazaOSSettings.git main
           
